@@ -1,8 +1,21 @@
 ﻿using DesafioProjetoHospedagem.Models;
 
 Pessoa luis = new("Luis Henrique", "Sales da Rocha");
-string nomeCompleto = luis.NomeCompleto();
-Suite suite1 = new("Premium", 3, 30);
+Pessoa lucas = new("Lucas", "Ribeiro");
+Pessoa diogo = new("Digogo", "Oliveira");
+Pessoa paulo = new("Paulo", "Constantino");
+Pessoa rubens = new("Rubens", "Castanheira");
 
+Suite suiteBasica = new("Basica", 4, 30);
+Suite suitePremium = new("Premium", 3, 60);
 
-System.Console.WriteLine(suite1.ResumoSuite());
+Reserva reserva1 = new(5);
+reserva1.CadastrarSuite(suiteBasica);
+reserva1.CadastrarHospedes(luis);
+reserva1.CadastrarHospedes(lucas);
+reserva1.CadastrarHospedes(diogo);
+reserva1.CadastrarHospedes(paulo);
+
+System.Console.WriteLine($"Hóspedes: {reserva1.ObterQuantidadeHospedes()}");
+System.Console.WriteLine($"Valor a pagar: {reserva1.CalcularValorDiaria()}");
+
