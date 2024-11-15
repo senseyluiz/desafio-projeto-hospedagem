@@ -7,11 +7,6 @@ namespace DesafioProjetoHospedagem.Models
 {
     public class Pessoa
     {
-
-        public Pessoa()
-        {
-            
-        }
         public Pessoa(string nome, string sobrenome)
         {
             Nome = nome;
@@ -32,7 +27,7 @@ namespace DesafioProjetoHospedagem.Models
                 
             }
         }
-        
+
         public string Sobrenome
         {
             get=> _sobrenome;
@@ -43,8 +38,7 @@ namespace DesafioProjetoHospedagem.Models
                 _sobrenome = value;
                 
             }
-        }
-        
+        }        
 
         public string NomeCompleto()
         {

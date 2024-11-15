@@ -15,7 +15,7 @@ namespace DesafioProjetoHospedagem.Models
         private int _diasResrvados;
         public Guid Id = Guid.NewGuid();
         private readonly List<Pessoa> Hospedes = [];
-        private Suite Suite = new();
+        private Suite Suite;
         public int DiasReservados
         {
             get => _diasResrvados;
@@ -30,7 +30,12 @@ namespace DesafioProjetoHospedagem.Models
 
         public void CadastrarHospedes(Pessoa hospede)
         {
-            Hospedes.Add(hospede);
+            if (Hospedes.Count < Suite.Capacidade)
+            {
+                Hospedes.Add(hospede);
+            }else{
+                System.Console.WriteLine("Capacidade máxima atingida");
+            }
         }
 
         public void CadastrarSuite(Suite suite)

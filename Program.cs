@@ -1,6 +1,6 @@
 ﻿using DesafioProjetoHospedagem.Models;
 
-Pessoa luis = new("Luis Henrique", "Sales da Rocha");
+Pessoa luis = new("Luis", "Figueiredo");
 Pessoa lucas = new("Lucas", "Ribeiro");
 Pessoa diogo = new("Digogo", "Oliveira");
 Pessoa paulo = new("Paulo", "Constantino");
@@ -15,6 +15,7 @@ reserva1.CadastrarHospedes(luis);
 reserva1.CadastrarHospedes(lucas);
 reserva1.CadastrarHospedes(diogo);
 reserva1.CadastrarHospedes(paulo);
+// reserva1.CadastrarHospedes(rubens);
 
 System.Console.WriteLine($"Hóspedes: {reserva1.ObterQuantidadeHospedes()}");
 System.Console.WriteLine($"Valor a pagar: {reserva1.CalcularValorDiaria()}");
