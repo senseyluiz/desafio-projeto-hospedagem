@@ -1,0 +1,14 @@
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\02- Explorando a Linguagem C#\DesafioProjetoHospedagem\bin\Debug\net8.0\DesafioProjetoHospedagem.exe
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\02- Explorando a Linguagem C#\DesafioProjetoHospedagem\bin\Debug\net8.0\DesafioProjetoHospedagem.deps.json
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\02- Explorando a Linguagem C#\DesafioProjetoHospedagem\bin\Debug\net8.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\02- Explorando a Linguagem C#\DesafioProjetoHospedagem\bin\Debug\net8.0\DesafioProjetoHospedagem.dll
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\02- Explorando a Linguagem C#\DesafioProjetoHospedagem\bin\Debug\net8.0\DesafioProjetoHospedagem.pdb
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\02- Explorando a Linguagem C#\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\02- Explorando a Linguagem C#\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\02- Explorando a Linguagem C#\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\02- Explorando a Linguagem C#\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\02- Explorando a Linguagem C#\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.dll
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\02- Explorando a Linguagem C#\DesafioProjetoHospedagem\obj\Debug\net8.0\refint\DesafioProjetoHospedagem.dll
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\02- Explorando a Linguagem C#\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.pdb
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\02- Explorando a Linguagem C#\DesafioProjetoHospedagem\obj\Debug\net8.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\02- Explorando a Linguagem C#\DesafioProjetoHospedagem\obj\Debug\net8.0\ref\DesafioProjetoHospedagem.dll
