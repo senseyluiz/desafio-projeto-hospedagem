@@ -15,7 +15,7 @@ reserva1.CadastrarHospedes(luis);
 reserva1.CadastrarHospedes(lucas);
 reserva1.CadastrarHospedes(diogo);
 reserva1.CadastrarHospedes(paulo);
-// reserva1.CadastrarHospedes(rubens);
+reserva1.CadastrarHospedes(rubens);
 
 System.Console.WriteLine($"Hóspedes: {reserva1.ObterQuantidadeHospedes()}");
 System.Console.WriteLine($"Valor a pagar: {reserva1.CalcularValorDiaria()}");
